@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\Android\SDK\android-sdk\extras\android\m2repository\com\android\support\support-v4\18.0.0\support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-18.0.0_b2ab36f7185f5952ec986aa7a4adf8f963ee4280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a10c51b7c3c4c7dcf2830c352ba2ac20d367cd86">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_0b2ebb7ac996fdac376bee7f3f8f074fa1c39877\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\libs\xcl-charts.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="57a969cc95b54a2cfd0253a73eac1a2c63c81acc">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\2\xcl-charts_2f166632bcf37fb4080c8b6fcd1a9b1fffa8cd38\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\libs\initactivity.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="79de4a18f43e5b049fadeb61845aa1f45e430964">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\2\initactivity_b1e473cde2c21e04e73800116c88f2e546b9eefd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\libs\android-pdfview.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="dadbcccb945ef26d41a894d4add43f240f7397e3">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-pdfview_6e8205d424ac7f05fded8d61efe1cfceafe702e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\Huang\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.3_321d34864e46c874f0ef5a0c8091c3794f3251ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="daebdf1127e3a1c4c4ac7b55e83a6d4930718924">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_0030ef037bacb6469762f72a2f89c98f3fe4225d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="D:\AndroidStudioWorkSpace\ESOP\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_fab0ce9df1ee5e040b92a50db27f38b08146349d\classes.dex" />
+    </item>
+
+</items>
